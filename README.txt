@@ -1,4 +1,4 @@
-Minetest 0.4 mod: cake
+Minetest 5.0+ mod: cake
 ======================
 
 License of source code:
